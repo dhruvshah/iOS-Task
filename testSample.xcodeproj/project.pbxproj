@@ -14,7 +14,7 @@
 		1E54A8511AFC060F0030E146 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E54A8501AFC060F0030E146 /* Images.xcassets */; };
 		1E54A8541AFC060F0030E146 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1E54A8521AFC060F0030E146 /* LaunchScreen.xib */; };
 		1E54A8601AFC060F0030E146 /* testSampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E54A85F1AFC060F0030E146 /* testSampleTests.m */; };
-		1ED4C1A51B0CFFE300184503 /* noImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 1ED4C1A41B0CFFE300184503 /* noImage.png */; };
+		1ED4C1B11B0D16AD00184503 /* noImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 1ED4C1B01B0D16AD00184503 /* noImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +41,7 @@
 		1E54A8591AFC060F0030E146 /* testSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E54A85E1AFC060F0030E146 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1E54A85F1AFC060F0030E146 /* testSampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testSampleTests.m; sourceTree = "<group>"; };
-		1ED4C1A41B0CFFE300184503 /* noImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = noImage.png; path = ../../../Desktop/noImage.png; sourceTree = "<group>"; };
+		1ED4C1B01B0D16AD00184503 /* noImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +87,7 @@
 				1E54A8481AFC060F0030E146 /* AppDelegate.m */,
 				1E54A84A1AFC060F0030E146 /* ViewController.h */,
 				1E54A84B1AFC060F0030E146 /* ViewController.m */,
-				1ED4C1A41B0CFFE300184503 /* noImage.png */,
+				1ED4C1B01B0D16AD00184503 /* noImage.png */,
 				1E54A84D1AFC060F0030E146 /* Main.storyboard */,
 				1E54A8501AFC060F0030E146 /* Images.xcassets */,
 				1E54A8521AFC060F0030E146 /* LaunchScreen.xib */,
@@ -204,7 +204,7 @@
 			files = (
 				1E54A84F1AFC060F0030E146 /* Main.storyboard in Resources */,
 				1E54A8541AFC060F0030E146 /* LaunchScreen.xib in Resources */,
-				1ED4C1A51B0CFFE300184503 /* noImage.png in Resources */,
+				1ED4C1B11B0D16AD00184503 /* noImage.png in Resources */,
 				1E54A8511AFC060F0030E146 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
